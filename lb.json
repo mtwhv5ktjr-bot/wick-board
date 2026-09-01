@@ -16,5 +16,14 @@
   "mode": "pepe-wick",
   "guns": 10,
   "ts": 1788243958943
+ },
+ {
+  "a": "0xc0658ebddcfff897b1f95c20a40fd5328438b65c",
+  "name": "",
+  "score": 9555,
+  "level": 1,
+  "mode": "daily-202609",
+  "guns": 10,
+  "ts": 1788244013122
  }
 ]
